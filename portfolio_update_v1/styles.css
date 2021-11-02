@@ -62,6 +62,18 @@ header {
   overflow: hidden;
   padding-top: 60px;
 }
+
+.header2 {
+  text-align: center;
+  background: url('images/91QL1ulfrlL._SL1500_.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+
+
+
+
 header {
   line-height: 1.5;
 }
